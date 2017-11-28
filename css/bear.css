@@ -12,7 +12,9 @@ html {
 
 @media only screen and (max-width: 1196px) {
   img {
-    right:800px;
+    position: absolute;
+      top:82px;
+      right: 4%;
   }
 
 }
