@@ -11,7 +11,7 @@ html {
 /* Write your solution here */
 
 @media only screen and (max-width:1312px) {
-  img { position: absolute;
+  img { position: fixed;
     top: 100px;
   }
 }
