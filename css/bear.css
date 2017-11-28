@@ -13,8 +13,8 @@ html {
 @media only screen and (min-width: 1196px) {
   img {
     position: absolute;
-      left: 800px;
-      top: 100px;
+      right: 800px;
+      
   }
 
 }
